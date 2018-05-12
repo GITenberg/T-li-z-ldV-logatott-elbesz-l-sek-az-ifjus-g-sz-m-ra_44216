@@ -1,0 +1,39 @@
+_repo: T-li-z-ldV-logatott-elbesz-l-sek-az-ifjus-g-sz-m-ra_44216
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jókai, Mór
+    aliases:
+    - Jokai, Maurus
+    - Jokai, Mor
+    birthdate: 1825
+    deathdate: 1904
+    gutenberg_agent_id: '5845'
+    url: http://www.gutenberg.org/2009/agents/5845
+    wikipedia: http://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
+description: ''
+gutenberg_issued: '2013-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44216'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Hungarian'
+- !lcc 'PZ'
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction'
+tableOfContents: 'Rozgonyi Cecilia -- Soliman alma -- Koronát szerelemért: Vizkereszt
+  ünnepe. Késő látogatók. A tatárok -- Bacsó Tamás (Magyar historiai novella): A tor.
+  A fehér leány. A kinyujtott kéz. A három tanu -- A Nagyenyedi két fűzfa. (Beszély)
+  -- A khámok utóda: Tatár philosophia. A mezrei várkastély. Szendereli. Miriám. Az
+  áruló. Az arany álarcz. A menyasszony álmai. Tatárharcz. A menyegző. Számadás --
+  A basi-bozuk -- A gyerkőcz -- Az ellenséges koponyák -- A mennyei parittyakövek
+  -- Egy bukott angyal.'
+title: 'Téli zöld: Válogatott elbeszélések az ifjuság számára'
+url: http://www.gutenberg.org/ebooks/44216
